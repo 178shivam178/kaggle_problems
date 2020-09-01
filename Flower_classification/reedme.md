@@ -1,4 +1,6 @@
-Hii Everyone this was my first competetion on kaggle.from this competetion I have learnt many thing like-TPU Training,to using TFrec File 
+Hii Everyone this was my first competetion on kaggle.from this competetion I have learnt many thing like-TPU Training,to use TFrec File 
+
+
 In this copetetion I got 76th rank by using only one Model EfficientB7.
 complete details---
     DATASET===> Kaggle dataset+imagenet_flower +inaturalist_flower +openimage +oxford_102   
