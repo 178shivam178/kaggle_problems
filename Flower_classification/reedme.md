@@ -1,5 +1,5 @@
 Hii Everyone this was my first competetion on kaggle.from this competetion I have learnt many thing like-TPU Training,to use TFrec File 
-
+for Initially start, kaggle  had provided a notebook to understand tfrec file and how to use it.
 
 In this copetetion I got 76th rank by using only one Model EfficientB7.
 complete details---
